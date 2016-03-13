@@ -1,0 +1,15 @@
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\bin\Debug\Mobile_Ball.exe.config
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\bin\Debug\Mobile_Ball.exe
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\bin\Debug\Mobile_Ball.pdb
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\Mobile_Ball.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\App.g.cs
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\Mobile_Ball_MarkupCompile.cache
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\Mobile_Ball.g.resources
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\Mobile_Ball.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\Mobile_Ball.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\Mobile_Ball.exe
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\Mobile_Ball.pdb
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\MobileBall_CatchTest.baml
+d:\documents\visual studio 2012\Projects\Mobile_Ball\Mobile_Ball\obj\Debug\MobileBall_CatchTest.g.cs
